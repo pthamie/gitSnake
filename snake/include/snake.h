@@ -1,7 +1,7 @@
 //#ifndef DEF_SNAKE
 //#define DEF_SNAKE
 
-#include "include/background.h"
+#include "background.h"
 
 class Snake
 {
